@@ -7,3 +7,4 @@ A template for a Python project.
 - test: unit test
 - setup.py: The file used to install the Python package
 - python_template/VERSION.txt: version info
+- LICENSE: license of this project
