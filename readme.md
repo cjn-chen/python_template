@@ -1,7 +1,8 @@
 # python_template
 A template for a Python project.
 - data: data file
-- example: example code or tutorial
+- example: example code
+- tutorial: tutorial of this project
 - python_template: The folder where the source code is stored.
 - scripts: some python or bash scripts
 - test: unit test
