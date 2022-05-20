@@ -2,10 +2,15 @@
 A template for a Python project.
 - data: data file
 - example: example code
-- tutorial: tutorial of this project
+- notes: some import notes of this project
+- project: some python or bash scripts
 - python_template: The folder where the source code is stored.
-- scripts: some python or bash scripts
+    - python_template/VERSION.txt: version info
 - test: unit test
-- setup.py: The file used to install the Python package
-- python_template/VERSION.txt: version info
+- tutorial: tutorial of this project
+- .gitignore: tell git which file to ignore
 - LICENSE: license of this project
+- requirements.txt: environment of this project
+- setup.py: The file used to install the Python package
+
+
