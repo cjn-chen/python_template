@@ -14,3 +14,7 @@ A template for a Python project.
 - setup.py: The file used to install the Python package
 
 
+# how to use main.py
+``` bash
+python ./python_template/main.py --echo_txt "hello template"
+```
